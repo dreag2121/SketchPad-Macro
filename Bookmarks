@@ -1,3 +1,8 @@
-http://www.keyboard-layout-editor.com/ - used to create layouts and hopefully design some keycaps
-https://config.qmk.fm/#/wilba_tech/wt70_jb/LAYOUT_all - used to code the micro condtoller which is used to convert inputs to soemthing the computer to understand.
+http://www.keyboard-layout-editor.com/ // used to create layouts and hopefully design some keycaps
+https://config.qmk.fm/#/wilba_tech/wt70_jb/LAYOUT_all // used to code the micro condtoller which is used to convert inputs to soemthing the computer to understand.
 
+
+
+//Sites for printing parts
+https://www.kicad.org/ // random find
+https://kbdfans.com/search?type=product&q=pcb // interesting idea for hotswap keyboards
